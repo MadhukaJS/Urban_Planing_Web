@@ -15,7 +15,7 @@
 }
 
 .navbar {
-  background-color:#004225;
+  background-color:rgb(32, 3, 87);
 }
 
 
@@ -29,3 +29,175 @@
   object-fit: cover; 
   width: 100%;
 }
+
+
+/* //image container */
+/* Set a fixed size for the image containers */
+.image-container {
+  width: 1500px; /* Adjust width as needed */
+  height: 600px; /* Adjust height as needed */
+  overflow: hidden; /* Hide any overflowing content */
+  margin: 10px; 
+  object-fit: cover;/* Add margin for spacing */
+}
+
+/* Ensure images fill their containers while maintaining aspect ratio */
+.image-container img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+
+/* Define CSS for the features-icons section */
+.features-icons {
+  padding: 80px 0;
+}
+
+.features-icons-item {
+  margin-bottom: 30px;
+}
+
+.features-icons-icon {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100px;
+  height: 100px;
+  border: 2px solid #007bff;
+  border-radius: 50%;
+  margin: 0 auto 20px auto;
+  font-size: 36px;
+}
+
+.features-icons-icon i {
+  color: #007bff;
+}
+
+.features-icons-item h3 {
+  font-size: 24px;
+  margin: 10px 0;
+}
+
+.features-icons-item p {
+  font-size: 18px;
+  margin: 0;
+}
+
+/* circle images */
+.features-icons-item:nth-child(1) .features-icons-icon {
+  border-color: #007bff;
+  color: #007bff;
+}
+
+.features-icons-item:nth-child(2) .features-icons-icon {
+  border-color: #28a745;
+  color: #28a745;
+}
+
+.features-icons-item:nth-child(3) .features-icons-icon {
+  border-color: #dc3545;
+  color: #dc3545;
+}
+
+
+/* Style for the testimonials section */
+.testimonials {
+  padding: 80px 0;
+}
+
+.testimonials h2 {
+  font-size: 32px;
+  margin-bottom: 50px;
+}
+
+.testimonial-item {
+  text-align: center;
+  margin-bottom: 30px;
+}
+
+.testimonial-item img {
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+  object-fit: cover;
+  margin: 0 auto 20px;
+}
+
+.testimonial-item h5 {
+  font-size: 24px;
+  margin: 10px 0;
+}
+
+.testimonial-item p {
+  font-size: 18px;
+  margin: 0;
+}
+
+
+
+/* Style for the footer section */
+.footer {
+  background-color: #010101;
+  padding: 20px 0;
+  
+
+}
+
+.footer .container {
+  display: flex;
+  flex-direction: column;
+}
+
+.footer .row {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+
+.footer .col-lg-6 {
+  text-align: center;
+  margin: 20px 0;
+}
+
+.footer .col-lg-6 ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.footer .col-lg-6 ul li {
+  display: inline;
+  margin-right: 10px;
+}
+
+.footer .col-lg-6 p {
+  font-size: 14px;
+  margin: 0;
+}
+
+.footer .col-lg-6 .text-muted {
+  margin: 10px 0;
+  font-size: 12px;
+}
+
+.footer .col-lg-6 .list-inline-item a {
+  text-decoration: none;
+  color: #333;
+  font-size: 14px;
+}
+
+.footer .col-lg-6 .list-inline-item a:hover {
+  color: #007bff;
+}
+
+.footer .col-lg-6 .list-inline-item:last-child {
+  margin-right: 0;
+}
+
+.footer .col-lg-6 .fs-3 {
+  font-size: 20px;
+  margin-right: 10px;
+}
+
+

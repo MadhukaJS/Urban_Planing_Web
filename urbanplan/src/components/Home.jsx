@@ -16,12 +16,11 @@ export default function Home() {
           <a className="navbar-brand" href="#">
             <img
               id="Urban logo"
-              src=""
+              src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/dribbble-square-color-icon.png"
               alt="Urban Plan"
               draggable="false"
               height="30"
             />
-           
           </a>
           <button
             className="navbar-toggler"
@@ -42,7 +41,7 @@ export default function Home() {
                   aria-current="page"
                   href="#"
                 >
-                  <i className="fas fa-bars pe-2"></i>Menu
+                  <i className="fas fa-bars pe-2"></i>UrbanPlan
                 </a>
               </li>
             </ul>
@@ -57,7 +56,7 @@ export default function Home() {
                 >
                   All
                 </button>
-                
+
                 <input
                   type="search"
                   className="form-control"
@@ -84,22 +83,168 @@ export default function Home() {
       {/* ----------------- */}
 
       <Carousel>
-        <div>
+        <div class="image-container">
           <img
             src="https://images.pexels.com/photos/8895652/pexels-photo-8895652.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
             alt="Image 1"
           />
         </div>
-        <div>
-          <img src="https://images.pexels.com/photos/13348436/pexels-photo-13348436.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="Image 2" />
+        <div class="image-container">
+          <img
+            src="https://images.pexels.com/photos/13348436/pexels-photo-13348436.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+            alt="Image 2"
+          />
         </div>
-        <div>
-          <img src="https://images.pexels.com/photos/11089197/pexels-photo-11089197.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="Image 3" />
+        <div class="image-container">
+          <img
+            src="https://images.pexels.com/photos/11089197/pexels-photo-11089197.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+            alt="Image 3"
+          />
         </div>
         {/* Add more images as needed */}
       </Carousel>
 
-   
+      
+
+      {/* circle images */}
+      <section class="features-icons bg-light text-center">
+        <div class="container">
+          <div class="row">
+            <div class="col-lg-4">
+              <div class="features-icons-item mx-auto mb-5 mb-lg-0 mb-lg-3">
+                <div class="features-icons-icon d-flex">
+                  <i class="bi-window m-auto text-primary"></i>
+                </div>
+                <h3>Fully Responsive</h3>
+                <p class="lead mb-0">
+                  This theme will look great on any device, no matter the size!
+                </p>
+              </div>
+            </div>
+            <div class="col-lg-4">
+              <div class="features-icons-item mx-auto mb-5 mb-lg-0 mb-lg-3">
+                <div class="features-icons-icon d-flex">
+                  <i class="bi-layers m-auto text-primary"></i>
+                </div>
+                <h3>Bootstrap 5 Ready</h3>
+                <p class="lead mb-0">
+                  Featuring the latest build of the new Bootstrap 5 framework!
+                </p>
+              </div>
+            </div>
+            <div class="col-lg-4">
+              <div class="features-icons-item mx-auto mb-0 mb-lg-3">
+                <div class="features-icons-icon d-flex">
+                  <i class="bi-terminal m-auto text-primary"></i>
+                </div>
+                <h3>Easy to Use</h3>
+                <p class="lead mb-0">
+                  Ready to use with your own content, or customize the source
+                  files!
+                </p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      {/* testimonials section  */}
+      <section class="testimonials text-center bg-light">
+        <div class="container">
+          <h2 class="mb-5">What people are saying...</h2>
+          <div class="row">
+            <div class="col-lg-4">
+              <div class="testimonial-item mx-auto mb-5 mb-lg-0">
+                <img
+                  class="img-fluid rounded-circle mb-3"
+                  src="assets/img/testimonials-1.jpg"
+                  alt="..."
+                />
+                <h5>Margaret E.</h5>
+                <p class="font-weight-light mb-0">
+                  "This is fantastic! Thanks so much guys!"
+                </p>
+              </div>
+            </div>
+            <div class="col-lg-4">
+              <div class="testimonial-item mx-auto mb-5 mb-lg-0">
+                <img
+                  class="img-fluid rounded-circle mb-3"
+                  src="assets/img/testimonials-2.jpg"
+                  alt="..."
+                />
+                <h5>Fred S.</h5>
+                <p class="font-weight-light mb-0">
+                  "Bootstrap is amazing. I've been using it to create lots of
+                  super nice landing pages."
+                </p>
+              </div>
+            </div>
+            <div class="col-lg-4">
+              <div class="testimonial-item mx-auto mb-5 mb-lg-0">
+                <img
+                  class="img-fluid rounded-circle mb-3"
+                  src="assets/img/testimonials-3.jpg"
+                  alt="..."
+                />
+                <h5>Sarah W.</h5>
+                <p class="font-weight-light mb-0">
+                  "Thanks so much for making these free resources available to
+                  us!"
+                </p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <footer class="footer bg-light">
+        <div class="container">
+          <div class="row">
+            <div class="col-lg-6 h-100 text-center text-lg-start my-auto">
+              <ul class="list-inline mb-2">
+                <li class="list-inline-item">
+                  <a href="#!">About</a>
+                </li>
+                <li class="list-inline-item">⋅</li>
+                <li class="list-inline-item">
+                  <a href="#!">Contact</a>
+                </li>
+                <li class="list-inline-item">⋅</li>
+                <li class="list-inline-item">
+                  <a href="#!">Terms of Use</a>
+                </li>
+                <li class="list-inline-item">⋅</li>
+                <li class="list-inline-item">
+                  <a href="#!">Privacy Policy</a>
+                </li>
+              </ul>
+              <p class="text-muted small mb-4 mb-lg-0">
+                &copy; Your Website 2023. All Rights Reserved.
+              </p>
+            </div>
+            <div class="col-lg-6 h-100 text-center text-lg-end my-auto">
+              <ul class="list-inline mb-0">
+                <li class="list-inline-item me-4">
+                  <a href="#!">
+                    <i class="bi-facebook fs-3"></i>
+                  </a>
+                </li>
+                <li class="list-inline-item me-4">
+                  <a href="#!">
+                    <i class="bi-twitter fs-3"></i>
+                  </a>
+                </li>
+                <li class="list-inline-item">
+                  <a href="#!">
+                    <i class="bi-instagram fs-3"></i>
+                  </a>
+                </li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </footer>
     </div>
   );
 }
