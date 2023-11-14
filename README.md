@@ -5,3 +5,35 @@
 <p align="center">
 <img alt="rmicc" src="https://github.com/MadhukaJS/Urban_Planing_Web/blob/main/urban/screenshots/Screenshot%20(128).png"</img>
 </p>
+
+<p align="center">
+<img alt="rmicc" src="https://github.com/MadhukaJS/Urban_Planing_Web/blob/main/urban/screenshots/Screenshot%20(129).png"</img>
+</p>
+
+<p align="center">
+<img alt="rmicc" src="https://github.com/MadhukaJS/Urban_Planing_Web/blob/main/urban/screenshots/Screenshot%20(130).png"</img>
+</p>
+
+<p align="center">
+<img alt="rmicc" src="https://github.com/MadhukaJS/Urban_Planing_Web/blob/main/urban/screenshots/Screenshot%20(131).png"</img>
+</p>
+
+<p align="center">
+<img alt="rmicc" src="https://github.com/MadhukaJS/Urban_Planing_Web/blob/main/urban/screenshots/Screenshot%20(132).png"</img>
+</p>
+
+<p align="center">
+<img alt="rmicc" src="https://github.com/MadhukaJS/Urban_Planing_Web/blob/main/urban/screenshots/Screenshot%20(133).png"</img>
+</p>
+
+<p align="center">
+<img alt="rmicc" src="https://github.com/MadhukaJS/Urban_Planing_Web/blob/main/urban/screenshots/Screenshot%20(134).png"</img>
+</p>
+
+<p align="center">
+<img alt="rmicc" src="https://github.com/MadhukaJS/Urban_Planing_Web/blob/main/urban/screenshots/Screenshot%20(135).png"</img>
+</p>
+
+<p align="center">
+<img alt="rmicc" src="https://github.com/MadhukaJS/Urban_Planing_Web/blob/main/urban/screenshots/Screenshot%20(136).png"</img>
+</p>
