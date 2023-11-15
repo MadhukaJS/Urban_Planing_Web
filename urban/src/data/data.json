@@ -1,0 +1,184 @@
+{
+  "Header": {
+    "title": "Welcome to the City Plan.",
+    "paragraph": "We specialize in creating urban spaces that are both functional and aesthetically pleasing. Our urban design solutions focus on improving the quality of life for residents and visitors"
+  },
+  "About": {
+    "paragraph": "we are not just urban planners; we are visionaries. Our team brings together a wealth of experience and expertise to create urban environments that thrive. We understand the unique challenges that cities face and are dedicated to finding innovative solutions.",
+    "Why": [
+      "Expertise",
+      "Innovative Solutions",
+      "Sustainability Focus",
+      "Tailored Approach"
+    ],
+    "Why2": [
+      "Community-Centric",
+      "Proven Success",
+      "Comprehensive Services",
+      "Commitment to Excellence"
+    ]
+  },
+  "Gallery": [
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/01-large.jpg",
+      "smallImage": "img/portfolio/01-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/02-large.jpg",
+      "smallImage": "img/portfolio/02-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/03-large.jpg",
+      "smallImage": "img/portfolio/03-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/04-large.jpg",
+      "smallImage": "img/portfolio/04-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/05-large.jpg",
+      "smallImage": "img/portfolio/05-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/06-large.jpg",
+      "smallImage": "img/portfolio/06-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/07-large.jpg",
+      "smallImage": "img/portfolio/07-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/08-large.jpg",
+      "smallImage": "img/portfolio/08-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/09-large.jpg",
+      "smallImage": "img/portfolio/09-small.jpg"
+    }
+  ],
+  "Services": [
+    {
+      "icon": "fa fa-wordpress",
+      "name": "Urban Design",
+      "text": ""
+    },
+    {
+      "icon": "fa fa-cart-arrow-down",
+      "name": "Land Use Planning",
+      "text": ""
+    },
+    {
+      "icon": "fa fa-cloud-download",
+      "name": "Sustainability Consulting",
+      "text": ""
+    },
+    {
+      "icon": "fa fa-language",
+      "name": "Community Engagement",
+      "text": ""
+    },
+    {
+      "icon": "fa fa-plane",
+      "name": "Transportation Planning",
+      "text": ""
+    },
+    {
+      "icon": "fa fa-pie-chart",
+      "name": "Infrastructure Development",
+      "text": ""
+    }
+  ],
+  "Testimonials": [
+    {
+      "img": "img/testimonials/01.jpg",
+      "text": "\"Working with URBANPLAN was a game-changer for our city. Their innovative solutions transformed our urban landscape and improved the lives of our residents\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/02.jpg",
+      "text": "\"Working with URBANPLAN was a game-changer for our city. Their innovative solutions transformed our urban landscape and improved the lives of our residents.\"",
+      "name": "Johnathan Doe"
+    },
+    {
+      "img": "img/testimonials/03.jpg",
+      "text": "\"Working with URBANPLAN was a game-changer for our city. Their innovative solutions transformed our urban landscape and improved the lives of our residents\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/04.jpg",
+      "text": "\"Working with URBANPLAN was a game-changer for our city. Their innovative solutions transformed our urban landscape and improved the lives of our residents\"",
+      "name": "Johnathan Doe"
+    },
+    {
+      "img": "img/testimonials/05.jpg",
+      "text": "\"Working with URBANPLAN was a game-changer for our city. Their innovative solutions transformed our urban landscape and improved the lives of our residents\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/06.jpg",
+      "text": "\"Working with URBANPLAN was a game-changer for our city. Their innovative solutions transformed our urban landscape and improved the lives of our residents\"",
+      "name": "Johnathan Doe"
+    }
+  ],
+  "Team": [
+    {
+      "img": "img/team/01.jpg",
+      "name": "John Doe",
+      "job": "Director"
+    },
+    {
+      "img": "img/team/02.jpg",
+      "name": "Mike Doe",
+      "job": "Senior Planner"
+    },
+    {
+      "img": "img/team/03.jpg",
+      "name": "Jane Doe",
+      "job": "Senior Consultant"
+    },
+    {
+      "img": "img/team/04.jpg",
+      "name": "Karen Doe",
+      "job": "Project Manager"
+    }
+  ],
+  "Contact": {
+    "address": "4321 USA",
+    "phone": "+1 123 456 1234",
+    "email": "Urbanplan@company.com",
+    "facebook": "fb.com",
+    "twitter": "twitter.com",
+    "youtube": "youtube.com"
+  },
+  "Features": [
+    {
+      "icon": "fa fa-comments-o",
+      "title": "Urban Design",
+      "text": "We specialize in creating urban spaces that are both functional and aesthetically pleasing. Our urban design solutions focus on improving the quality of life for residents and visitors."
+    },
+    {
+      "icon": "fa fa-bullhorn",
+      "title": "Transportation Planning",
+      "text": "Efficient and sustainable transportation systems are crucial for any city's success. We design transportation solutions that reduce congestion, enhance mobility, and promote sustainability."
+    },
+    {
+      "icon": "fa fa-group",
+      "title": "Sustainability Consulting",
+      "text": "Sustainability is at the heart of our approach. We work with clients to integrate environmentally responsible practices into their urban planning and development projects."
+    },
+    {
+      "icon": "fa fa-magic",
+      "title": "Community Engagement",
+      "text": "We believe that communities should have a voice in shaping their future. Our community engagement strategies foster collaboration and inclusivity in the planning process."
+    }
+  ]
+}
